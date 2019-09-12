@@ -1,4 +1,4 @@
-# ninja_id
+# Ninja App
 
 A new Flutter project.
 
